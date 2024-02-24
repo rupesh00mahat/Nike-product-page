@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Nike-product-page/static/css/main.c9d018ef.css",
+    "main.js": "/Nike-product-page/static/js/main.cdc6e8d7.js",
+    "static/media/shoe_image.png": "/Nike-product-page/static/media/shoe_image.bc3327afe0189facd132.png",
+    "index.html": "/Nike-product-page/index.html",
+    "main.c9d018ef.css.map": "/Nike-product-page/static/css/main.c9d018ef.css.map",
+    "main.cdc6e8d7.js.map": "/Nike-product-page/static/js/main.cdc6e8d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d018ef.css",
+    "static/js/main.cdc6e8d7.js"
+  ]
+}
